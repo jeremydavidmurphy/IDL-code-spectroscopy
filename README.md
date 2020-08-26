@@ -4,4 +4,4 @@ This is code I wrote while in graduate school. Most of it is designed to reduce 
 
 The primary code in this directory is the not-so-cleverly-named pipe1.pro and pipe2.pro. These routines take the partly-reduced data from the telescope and complete the reduction. The versions pipe1C and pipe2C are modifications of those files to work on spectra that has been collapsed in other routines. If you're interested in exploring my code, I suggest you start there.
 
-Much of the rest of the code you'll find here are designed to carry out specfic tasks, many of which were focused on data visualization.
+Much of the rest of the code you'll find here is designed to carry out specfic tasks, many of which were focused on plotting and other forms of data visualization.
